@@ -1,0 +1,15 @@
+{
+  "name": "meet-manager-discord",
+  "version": "1.0.0",
+  "description": "Organize meetings from discord server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cagri Sungur",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "mongoose": "^5.12.14"
+  }
+}
